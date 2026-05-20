@@ -1,0 +1,122 @@
+[
+    {
+        "product": "Toyota Corolla",
+        "category": "Economy",
+        "quantity": 12,
+        "price": 45
+    },
+    {
+        "product": "Honda Civic",
+        "category": "Economy",
+        "quantity": 10,
+        "price": 48
+    },
+    {
+        "product": "Hyundai i20",
+        "category": "Economy",
+        "quantity": 4,
+        "price": 40
+    },
+    {
+        "product": "Ford Focus",
+        "category": "Compact",
+        "quantity": 6,
+        "price": 50
+    },
+    {
+        "product": "Volkswagen Golf",
+        "category": "Compact",
+        "quantity": 5,
+        "price": 55
+    },
+    {
+        "product": "Skoda Octavia",
+        "category": "Compact",
+        "quantity": 7,
+        "price": 75
+    },
+    {
+        "product": "Ford Explorer",
+        "category": "SUV",
+        "quantity": 3,
+        "price": 95
+    },
+    {
+        "product": "Toyota RAV4",
+        "category": "SUV",
+        "quantity": 8,
+        "price": 90
+    },
+    {
+        "product": "Nissan Qashqai",
+        "category": "SUV",
+        "quantity": 6,
+        "price": 85
+    },
+    {
+        "product": "BMW 3 Series",
+        "category": "Luxury",
+        "quantity": 3,
+        "price": 120
+    },
+    {
+        "product": "Mercedes C-Class",
+        "category": "Luxury",
+        "quantity": 2,
+        "price": 130
+    },
+    {
+        "product": "Audi A4",
+        "category": "Luxury",
+        "quantity": 4,
+        "price": 125
+    },
+    {
+        "product": "Tesla Model 3",
+        "category": "Electric",
+        "quantity": 2,
+        "price": 150
+    },
+    {
+        "product": "Nissan Leaf",
+        "category": "Electric",
+        "quantity": 9,
+        "price": 80
+    },
+    {
+        "product": "Hyundai Kona Electric",
+        "category": "Electric",
+        "quantity": 5,
+        "price": 100
+    },
+    {
+        "product": "Mercedes Sprinter",
+        "category": "Van",
+        "quantity": 2,
+        "price": 140
+    },
+    {
+        "product": "Ford Transit",
+        "category": "Van",
+        "quantity": 6,
+        "price": 110
+    },
+    {
+        "product": "Volkswagen Transporter",
+        "category": "Van",
+        "quantity": 4,
+        "price": 115
+    },
+    {
+        "product": "Kia Sportage",
+        "category": "SUV",
+        "quantity": 7,
+        "price": 88
+    },
+    {
+        "product": "Peugeot 208",
+        "category": "Economy",
+        "quantity": 11,
+        "price": 42
+    }
+]

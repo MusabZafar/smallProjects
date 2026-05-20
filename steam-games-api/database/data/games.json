@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Stardew Valley",
+    "description": "Farming and life simulation with pixel art charm and deep progression.",
+    "genres": ["Indie", "Simulation", "RPG"]
+  },
+  {
+    "title": "Hades",
+    "description": "Action roguelike set in the Greek underworld with fast combat and story depth.",
+    "genres": ["Action", "Roguelike", "Indie"]
+  },
+  {
+    "title": "Cities: Skylines",
+    "description": "City-building and management sandbox with detailed simulation systems.",
+    "genres": ["Simulation", "Strategy", "City Builder"]
+  }
+]
